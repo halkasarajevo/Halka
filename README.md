@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30131885/README.md)
-# Halka# Halka GitHub Pages Website
+# Halka GitHub Pages Website
 
 A bilingual Bosnian-English static website for Halka.
 
@@ -17,7 +16,7 @@ A bilingual Bosnian-English static website for Halka.
 
 Replace these placeholders in `index.html`:
 
-- `halka@rabata.org`
+- `info@halka.ba`
 - `@halka.ba`
 - Empty social media and library links marked with `href="#"`
 
